@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there! I'm José Romero 👋
 
+![Jose Romero Cover](./JoseRomero.jpg)
 <!--
 **RomeroJS/RomeroJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
