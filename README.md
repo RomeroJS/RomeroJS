@@ -1,6 +1,6 @@
 # Hi there! I'm José Romero 👋
 
-![Jose Romero Cover](./JoseRomero.jpg)
+![Jose Romero Cover](./JoseRomero.png)
 
 ## Mi stack de desarrollo
 
