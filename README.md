@@ -1,8 +1,8 @@
-# Hi there! I'm José Romero 👋
+# Hi there! I'm Jose Romero 👋
 
 ![Jose Romero Cover](./JoseRomero.png)
 
-## Mi stack de desarrollo
+## Mi Stack De Desarrollo
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
